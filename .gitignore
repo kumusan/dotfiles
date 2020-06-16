@@ -21,3 +21,4 @@
 /zsh/.zprezto
 /zsh/.zprezto/**
 !/README.md
+!/setup.sh
