@@ -1,0 +1,6 @@
+[submodule "zsh/.zprezto"]
+	path = zsh/.zprezto
+	url = https://github.com/sorin-ionescu/prezto
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/kumusan/nvim
