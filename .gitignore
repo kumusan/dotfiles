@@ -22,3 +22,4 @@
 /zsh/.zprezto/**
 !/README.md
 !/setup.sh
+!/.gitconfig
