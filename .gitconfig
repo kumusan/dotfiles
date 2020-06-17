@@ -2,3 +2,5 @@
 [user]
 	name = kumusan
 	email = ryogi0200@gmail.com
+[core]
+	symlinks = true
