@@ -13,7 +13,7 @@ module.exports = {
 
     // font family with optional fallbacks
     fontFamily:
-      'Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
+      '"Menlo", "ProFont for Powerline", "DejaVu Sans Mono", "Consolas", "Lucida Console", "monospace", "Droid Sans Nerd Font Complete"',
 
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
@@ -53,10 +53,7 @@ module.exports = {
     borderColor: "#333",
 
     // custom CSS to embed in the main window
-    css: `
-    .terms_terms{
-      background-image:url("file:///Users/kumu/Downloads/jepg.jpeg");
-    };`,
+    // css: `.terms_terms{background-image:url("file://Users/kumu/Downloads/jepg.jpeg");};`,
 
     // custom CSS to embed in the terminal window
     termCSS: "",

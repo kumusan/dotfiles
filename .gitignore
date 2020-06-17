@@ -23,3 +23,5 @@
 !/README.md
 !/setup.sh
 !/.gitconfig
+!/.tern-project
+!/.eslintrc
