@@ -13,7 +13,7 @@ module.exports = {
 
     // font family with optional fallbacks
     fontFamily:
-      '"Menlo", "ProFont for Powerline", "DejaVu Sans Mono", "Consolas", "Lucida Console", "monospace", "Droid Sans Nerd Font Complete"',
+      '"Menlo", "ProFont for Powerline", "DejaVu Sans Mono", "Consolas", "Lucida Console", "monospace", "Droid Sans Nerd Font Complete", "Menlo Regular Nerd Font", "Menlo Nerd Font"',
 
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
