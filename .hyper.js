@@ -4,6 +4,7 @@
 
 module.exports = {
   config: {
+    opacity: 1,
     // choose either `'stable'` for receiving highly polished,
     // or `'canary'` for less polished but more frequent updates
     updateChannel: "stable",
@@ -153,8 +154,8 @@ module.exports = {
     "hyper-pane",
     "hyper-search",
     "hyper-statusline",
-    "hyper-chesterish",
-    "hyper-whimsy"
+    "hyper-whimsy",
+    "hyper-opacity"
   ],
 
   // in development, you can create a directory under
